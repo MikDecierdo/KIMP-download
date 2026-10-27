@@ -1,4 +1,4 @@
-<p align="center"><img src="img/logo.png" width="88" alt="KIMP logo"></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="img/logo-dark.png"><img src="img/logo.png" width="88" alt="KIMP logo"></picture></p>
 
 <h1 align="center">KIMP</h1>
 <p align="center"><b>YouTube to MP3 and MP4 for Windows.</b> Paste a link, pick what to save, done.<br>
@@ -11,8 +11,8 @@ Developed by <b>Kim G. Decierdo</b> · <a href="https://kimp-qwtl.onrender.com">
 This repository only hosts the **KIMP installer** for download. Get it from the [Releases](../../releases/latest) page.
 
 ## Android
-**KIMP for Android 1.0.2** is on the [android-v1.0.2 release](../../releases/tag/android-v1.0.2): download
-`KIMP-1.0.2-arm64-v8a.apk` (almost every phone; `armeabi-v7a` for very old ones), open it and allow
+**KIMP for Android 1.0.3** is on the [android-v1.0.3 release](../../releases/tag/android-v1.0.3): download
+`KIMP-1.0.3-arm64-v8a.apk` (almost every phone; `armeabi-v7a` for very old ones), open it and allow
 *install unknown apps*. Android 10 or newer. It's open source (GPL-3.0):
 [MikDecierdo/KIMP-android](https://github.com/MikDecierdo/KIMP-android). From 1.0.2 on, KIMP updates itself.
 
