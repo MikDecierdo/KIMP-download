@@ -11,8 +11,8 @@ Developed by <b>Kim G. Decierdo</b> · <a href="https://kimp-qwtl.onrender.com">
 This repository only hosts the **KIMP installer** for download. Get it from the [Releases](../../releases/latest) page.
 
 ## Android
-**KIMP for Android 1.0** is on the [android-v1.0 release](../../releases/tag/android-v1.0): download
-`KIMP-1.0-arm64-v8a.apk` (almost every phone; `armeabi-v7a` for very old ones), open it and allow
+**KIMP for Android 1.0.1** is on the [android-v1.0.1 release](../../releases/tag/android-v1.0.1): download
+`KIMP-1.0.1-arm64-v8a.apk` (almost every phone; `armeabi-v7a` for very old ones), open it and allow
 *install unknown apps*. Android 10 or newer. It's open source (GPL-3.0):
 [MikDecierdo/KIMP-android](https://github.com/MikDecierdo/KIMP-android).
 
