@@ -11,10 +11,10 @@ Developed by <b>Kim G. Decierdo</b> · <a href="https://kimp-qwtl.onrender.com">
 This repository only hosts the **KIMP installer** for download. Get it from the [Releases](../../releases/latest) page.
 
 ## Android
-**KIMP for Android 1.0.1** is on the [android-v1.0.1 release](../../releases/tag/android-v1.0.1): download
-`KIMP-1.0.1-arm64-v8a.apk` (almost every phone; `armeabi-v7a` for very old ones), open it and allow
+**KIMP for Android 1.0.2** is on the [android-v1.0.2 release](../../releases/tag/android-v1.0.2): download
+`KIMP-1.0.2-arm64-v8a.apk` (almost every phone; `armeabi-v7a` for very old ones), open it and allow
 *install unknown apps*. Android 10 or newer. It's open source (GPL-3.0):
-[MikDecierdo/KIMP-android](https://github.com/MikDecierdo/KIMP-android).
+[MikDecierdo/KIMP-android](https://github.com/MikDecierdo/KIMP-android). From 1.0.2 on, KIMP updates itself.
 
 ## What KIMP does
 - **Music:** 320 kbps MP3 with title, artist and cover art. One song, a playlist, a whole channel, or every playlist on a channel. Stop any time and resume later.
