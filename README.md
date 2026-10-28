@@ -23,7 +23,7 @@ This repository only hosts the **KIMP installer** for download. Get it from the 
 - Light, dark or follow-Windows theme. No accounts, no tracking; settings stay on your computer.
 
 ## Install
-1. Download **`KIMP-Setup-1.3.exe`** from the [latest release](../../releases/latest).
+1. Download **`KIMP-Setup-1.4.exe`** from the [latest release](../../releases/latest).
 2. Run it. If Windows says *"Windows protected your PC"*, click **More info → Run anyway**. The installer isn't code-signed yet.
 3. Accept the terms of use and install. No admin rights needed.
 
