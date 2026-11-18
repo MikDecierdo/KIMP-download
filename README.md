@@ -6,13 +6,13 @@ Developed by <b>Kim G. Decierdo</b> · <a href="https://kimp-qwtl.onrender.com">
 
 <p align="center"><a href="../../releases/latest"><b>⬇ Download KIMP for Windows</b></a></p>
 
-![KIMP: Download video](img/video.png)
+![KIMP: Download video](img/video.jpg)
 
 This repository only hosts the **KIMP installer** for download. Get it from the [Releases](../../releases/latest) page.
 
 ## Android
-**KIMP for Android 1.0.5** is on the [android-v1.0.5 release](../../releases/tag/android-v1.0.5): download
-`KIMP-1.0.5-arm64-v8a.apk` (almost every phone; `armeabi-v7a` for very old ones), open it and allow
+**KIMP for Android 1.1.0** is on the [android-v1.1.0 release](../../releases/tag/android-v1.1.0): download
+`KIMP-1.1.0-arm64-v8a.apk` (almost every phone; `armeabi-v7a` for very old ones), open it and allow
 *install unknown apps*. Android 10 or newer. It's open source (GPL-3.0):
 [MikDecierdo/KIMP-android](https://github.com/MikDecierdo/KIMP-android). From 1.0.2 on, KIMP updates itself.
 
@@ -23,7 +23,7 @@ This repository only hosts the **KIMP installer** for download. Get it from the 
 - Light, dark or follow-Windows theme. No accounts, no tracking; settings stay on your computer.
 
 ## Install
-1. Download **`KIMP-Setup-1.4.exe`** from the [latest release](../../releases/latest).
+1. Download **`KIMP-Setup-1.5.exe`** from the [latest release](../../releases/latest).
 2. Run it. If Windows says *"Windows protected your PC"*, click **More info → Run anyway**. The installer isn't code-signed yet.
 3. Accept the terms of use and install. No admin rights needed.
 
